@@ -1,0 +1,22 @@
+h2 {
+  justify-content: center;
+  text-align: center;
+}
+.container {
+  height: 100%;
+  width: 100%;
+}
+.icon-display {
+  transform: scale(6);
+  color: #673ab7;
+  background-size: cover;
+  padding-left: 13%;
+  padding-top: 12%;
+}
+.card {
+  height: 300px;
+  width: 300px;
+  margin: 10px;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+}
